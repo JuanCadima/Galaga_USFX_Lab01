@@ -9,6 +9,20 @@ ANivel::ANivel()
  	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
+	NumeroOleadas = 5;
+	DuracionNivel = 300.0f;
+	bEstaActivo = false;	
+
+}
+
+void ANivel::iniciarNivel()
+{
+	bEstaActivo = true;
+}
+
+void ANivel::finalizarNivel()
+{
+	bEstaActivo = false;
 }
 
 // Called when the game starts or when spawned

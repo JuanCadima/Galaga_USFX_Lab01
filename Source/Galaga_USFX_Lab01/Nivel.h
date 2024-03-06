@@ -16,6 +16,19 @@ public:
 	ANivel();
 
 protected:
+	//propiedades
+	int NumeroOleadas;
+	float DuracionNivel;
+
+public:
+	//metodos
+	void iniciarNivel();
+	void finalizarNivel();
+
+	//variable
+	bool bEstaActivo;
+
+protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 

@@ -16,6 +16,20 @@ public:
 	ASquad();
 
 protected:
+	//metodos
+	int numMiembros;
+	//un array de miembros si es que se requiere
+	TArray<AActor*> Miembros;
+
+public:
+
+	void agregarMiembro(AActor* NuevoMiembro);
+	void RealizarAccion();
+
+	//variable
+	bool bMision; //una variable para que la squad(miembros) sea llamado
+
+protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 

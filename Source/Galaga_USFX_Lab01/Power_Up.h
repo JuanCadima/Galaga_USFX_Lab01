@@ -16,6 +16,16 @@ public:
 	APower_Up();
 
 protected:
+	//propiedades
+	float Duracion;
+
+public:
+	//metodos
+	void activarPowerup();
+	void Desactivar();
+	//variable
+	bool bEstaActivo;
+protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 

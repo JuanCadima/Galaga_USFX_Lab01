@@ -262,12 +262,9 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"E:\Progamacion\Unreal Proyects\Galaga_USFX_Lab01\Intermediate\Build\Win64\Galaga_USFX_Lab01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"E:\Progamacion\Unreal Proyects\Galaga_USFX_Lab01\Intermediate\Build\Win64\Galaga_USFX_Lab01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"E:\Progamacion\Unreal Proyects\Galaga_USFX_Lab01\Intermediate\Build\Win64\Galaga_USFX_Lab01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"E:\Progamacion\Unreal Proyects\Galaga_USFX_Lab01\Source\Galaga_USFX_Lab01\Highscore.cpp"
-/FI"E:\Progamacion\Unreal Proyects\Galaga_USFX_Lab01\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Lab01\Definitions.Galaga_USFX_Lab01.h"
-/Fo"E:\Progamacion\Unreal Proyects\Galaga_USFX_Lab01\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Lab01\Highscore.cpp.obj"
+"E:\Progamacion\Unreal Proyects\Galaga_USFX_Lab01\Source\Galaga_USFX_Lab01\Nivel.cpp"
+/FI"E:\Progamacion\Unreal Proyects\Galaga_USFX_Lab01\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Lab01\Definitions.h"
+/Fo"E:\Progamacion\Unreal Proyects\Galaga_USFX_Lab01\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Lab01\Nivel.cpp.obj"
 /TP
 /GR-
 /W4

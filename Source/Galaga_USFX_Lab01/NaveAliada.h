@@ -16,6 +16,22 @@ public:
 	ANaveAliada();
 
 protected:
+	//propiedades implementadas
+	FString Nombre;
+	float velocidad;
+	float vida;
+	int puntos;
+	int dano;
+
+public:
+	//metodos implementados
+	void moverNave(FVector Direccion);
+	void Disparar();
+	void puntaje(int sumapuntos);
+	//variable
+	bool bEstaviva;
+
+protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 

@@ -14,16 +14,8 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define GALAGA_USFX_LAB01_Galaga_USFX_Lab01GameMode_generated_h
 
 #define Galaga_USFX_Lab01_Source_Galaga_USFX_Lab01_Galaga_USFX_Lab01GameMode_h_14_SPARSE_DATA
-#define Galaga_USFX_Lab01_Source_Galaga_USFX_Lab01_Galaga_USFX_Lab01GameMode_h_14_RPC_WRAPPERS \
- \
-	DECLARE_FUNCTION(execGetHighScore);
-
-
-#define Galaga_USFX_Lab01_Source_Galaga_USFX_Lab01_Galaga_USFX_Lab01GameMode_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
- \
-	DECLARE_FUNCTION(execGetHighScore);
-
-
+#define Galaga_USFX_Lab01_Source_Galaga_USFX_Lab01_Galaga_USFX_Lab01GameMode_h_14_RPC_WRAPPERS
+#define Galaga_USFX_Lab01_Source_Galaga_USFX_Lab01_Galaga_USFX_Lab01GameMode_h_14_RPC_WRAPPERS_NO_PURE_DECLS
 #define Galaga_USFX_Lab01_Source_Galaga_USFX_Lab01_Galaga_USFX_Lab01GameMode_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAGalaga_USFX_Lab01GameMode(); \
