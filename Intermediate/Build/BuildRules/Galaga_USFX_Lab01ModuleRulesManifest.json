@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Progamacion\\Unreal Proyects\\Galaga_USFX_Lab01\\Source\\Galaga_USFX_Lab01\\Galaga_USFX_Lab01.Build.cs",
+		"E:\\Progamacion\\Unreal Proyects\\Galaga_USFX_Lab01\\Source\\Galaga_USFX_Lab01.Target.cs",
+		"E:\\Progamacion\\Unreal Proyects\\Galaga_USFX_Lab01\\Source\\Galaga_USFX_Lab01Editor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
